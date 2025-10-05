@@ -5,6 +5,60 @@
 import type { AppRoutes, LayoutRoutes, ParamMap } from "./routes.js"
 import type { ResolvingMetadata, ResolvingViewport } from "next/dist/lib/metadata/types/metadata-interface.js"
 
+type AppPageConfig<Route extends AppRoutes = AppRoutes> = {
+  default: React.ComponentType<{ params: Promise<ParamMap[Route]> } & any> | ((props: { params: Promise<ParamMap[Route]> } & any) => React.ReactNode | Promise<React.ReactNode> | never | void | Promise<void>)
+  generateStaticParams?: (props: { params: ParamMap[Route] }) => Promise<any[]> | any[]
+  generateMetadata?: (
+    props: { params: Promise<ParamMap[Route]> } & any,
+    parent: ResolvingMetadata
+  ) => Promise<any> | any
+  generateViewport?: (
+    props: { params: Promise<ParamMap[Route]> } & any,
+    parent: ResolvingViewport
+  ) => Promise<any> | any
+  metadata?: any
+  viewport?: any
+}
+
+type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
+  default: React.ComponentType<LayoutProps<Route>> | ((props: LayoutProps<Route>) => React.ReactNode | Promise<React.ReactNode> | never | void | Promise<void>)
+  generateStaticParams?: (props: { params: ParamMap[Route] }) => Promise<any[]> | any[]
+  generateMetadata?: (
+    props: { params: Promise<ParamMap[Route]> } & any,
+    parent: ResolvingMetadata
+  ) => Promise<any> | any
+  generateViewport?: (
+    props: { params: Promise<ParamMap[Route]> } & any,
+    parent: ResolvingViewport
+  ) => Promise<any> | any
+  metadata?: any
+  viewport?: any
+}
+
+
+// Validate ..\..\app\(auth)\sign-in\page.tsx
+{
+  const handler = {} as typeof import("..\\..\\app\\(auth)\\sign-in\\page.js")
+  handler satisfies AppPageConfig<"/sign-in">
+}
+
+// Validate ..\..\app\(auth)\sign-up\page.tsx
+{
+  const handler = {} as typeof import("..\\..\\app\\(auth)\\sign-up\\page.js")
+  handler satisfies AppPageConfig<"/sign-up">
+}
+
+// Validate ..\..\app\(root)\[type]\page.tsx
+{
+  const handler = {} as typeof import("..\\..\\app\\(root)\\[type]\\page.js")
+  handler satisfies AppPageConfig<"/[type]">
+}
+
+// Validate ..\..\app\(root)\page.tsx
+{
+  const handler = {} as typeof import("..\\..\\app\\(root)\\page.js")
+  handler satisfies AppPageConfig<"/">
+}
 
 
 
@@ -12,6 +66,20 @@ import type { ResolvingMetadata, ResolvingViewport } from "next/dist/lib/metadat
 
 
 
+// Validate ..\..\app\(auth)\layout.tsx
+{
+  const handler = {} as typeof import("..\\..\\app\\(auth)\\layout.js")
+  handler satisfies LayoutConfig<"/">
+}
 
+// Validate ..\..\app\(root)\layout.tsx
+{
+  const handler = {} as typeof import("..\\..\\app\\(root)\\layout.js")
+  handler satisfies LayoutConfig<"/">
+}
 
-
+// Validate ..\..\app\layout.tsx
+{
+  const handler = {} as typeof import("..\\..\\app\\layout.js")
+  handler satisfies LayoutConfig<"/">
+}

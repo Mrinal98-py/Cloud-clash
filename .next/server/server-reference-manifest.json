@@ -7,17 +7,10 @@
           "async": false,
           "exportedName": "$$RSC_SERVER_ACTION_0",
           "filename": "components/Header.tsx"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "$$RSC_SERVER_ACTION_0",
-          "filename": "components/Header.tsx"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "components/Header.tsx",
       "exportedName": "$$RSC_SERVER_ACTION_0"
@@ -29,17 +22,10 @@
           "async": false,
           "exportedName": "createAccount",
           "filename": "lib/actions/user.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "createAccount",
-          "filename": "lib/actions/user.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/user.actions.ts",
       "exportedName": "createAccount"
@@ -51,17 +37,10 @@
           "async": false,
           "exportedName": "getCurrentUser",
           "filename": "lib/actions/user.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "getCurrentUser",
-          "filename": "lib/actions/user.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/user.actions.ts",
       "exportedName": "getCurrentUser"
@@ -73,17 +52,10 @@
           "async": false,
           "exportedName": "verifySecret",
           "filename": "lib/actions/user.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "verifySecret",
-          "filename": "lib/actions/user.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/user.actions.ts",
       "exportedName": "verifySecret"
@@ -95,17 +67,10 @@
           "async": false,
           "exportedName": "signInUser",
           "filename": "lib/actions/user.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "signInUser",
-          "filename": "lib/actions/user.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/user.actions.ts",
       "exportedName": "signInUser"
@@ -117,17 +82,10 @@
           "async": false,
           "exportedName": "signOutUser",
           "filename": "lib/actions/user.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "signOutUser",
-          "filename": "lib/actions/user.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "action-browser",
-        "app/(root)/page": "action-browser"
+        "app/(root)/[type]/page": "action-browser"
       },
       "filename": "lib/actions/user.actions.ts",
       "exportedName": "signOutUser"
@@ -139,17 +97,10 @@
           "async": false,
           "exportedName": "sendEmailOTP",
           "filename": "lib/actions/user.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "sendEmailOTP",
-          "filename": "lib/actions/user.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/user.actions.ts",
       "exportedName": "sendEmailOTP"
@@ -161,17 +112,10 @@
           "async": false,
           "exportedName": "createAdminClient",
           "filename": "lib/appwrite/index.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "createAdminClient",
-          "filename": "lib/appwrite/index.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/appwrite/index.ts",
       "exportedName": "createAdminClient"
@@ -183,17 +127,10 @@
           "async": false,
           "exportedName": "createSessionClient",
           "filename": "lib/appwrite/index.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "createSessionClient",
-          "filename": "lib/appwrite/index.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/appwrite/index.ts",
       "exportedName": "createSessionClient"
@@ -205,17 +142,10 @@
           "async": false,
           "exportedName": "getFiles",
           "filename": "lib/actions/file.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "getFiles",
-          "filename": "lib/actions/file.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/file.actions.ts",
       "exportedName": "getFiles"
@@ -227,17 +157,10 @@
           "async": false,
           "exportedName": "uploadFile",
           "filename": "lib/actions/file.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "uploadFile",
-          "filename": "lib/actions/file.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/file.actions.ts",
       "exportedName": "uploadFile"
@@ -249,17 +172,10 @@
           "async": false,
           "exportedName": "getTotalSpaceUsed",
           "filename": "lib/actions/file.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "getTotalSpaceUsed",
-          "filename": "lib/actions/file.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "rsc",
-        "app/(root)/page": "rsc"
+        "app/(root)/[type]/page": "rsc"
       },
       "filename": "lib/actions/file.actions.ts",
       "exportedName": "getTotalSpaceUsed"
@@ -271,17 +187,10 @@
           "async": false,
           "exportedName": "updateFileUsers",
           "filename": "lib/actions/file.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "updateFileUsers",
-          "filename": "lib/actions/file.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "action-browser",
-        "app/(root)/page": "action-browser"
+        "app/(root)/[type]/page": "action-browser"
       },
       "filename": "lib/actions/file.actions.ts",
       "exportedName": "updateFileUsers"
@@ -293,17 +202,10 @@
           "async": false,
           "exportedName": "renameFile",
           "filename": "lib/actions/file.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "renameFile",
-          "filename": "lib/actions/file.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "action-browser",
-        "app/(root)/page": "action-browser"
+        "app/(root)/[type]/page": "action-browser"
       },
       "filename": "lib/actions/file.actions.ts",
       "exportedName": "renameFile"
@@ -315,17 +217,10 @@
           "async": false,
           "exportedName": "deleteFile",
           "filename": "lib/actions/file.actions.ts"
-        },
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "deleteFile",
-          "filename": "lib/actions/file.actions.ts"
         }
       },
       "layer": {
-        "app/(root)/[type]/page": "action-browser",
-        "app/(root)/page": "action-browser"
+        "app/(root)/[type]/page": "action-browser"
       },
       "filename": "lib/actions/file.actions.ts",
       "exportedName": "deleteFile"
