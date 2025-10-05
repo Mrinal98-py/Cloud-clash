@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":["file:///D:/clone_cloud/storage_management_solution/components/AuthForm.tsx"],"sourcesContent":["import AuthForm from \"@/components/AuthForm\";\r\n\r\nconst SignUp = () => <AuthForm type=\"sign-up\" />;\r\n\r\nexport default SignUp;"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,SAAS,kBAAM,8OAAC,kIAAQ;QAAC,MAAK;;;;;;uCAErB","debugId":null}},
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":["file:///D:/clone_cloud/storage_management_solution/app/%28auth%29/sign-up/page.tsx"],"sourcesContent":["import AuthForm from \"@/components/AuthForm\";\r\n\r\nconst SignUp = () => <AuthForm type=\"sign-up\" />;\r\n\r\nexport default SignUp;"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,SAAS,kBAAM,8OAAC,kIAAQ;QAAC,MAAK;;;;;;uCAErB","debugId":null}}]
+}

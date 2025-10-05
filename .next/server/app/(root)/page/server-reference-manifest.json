@@ -1,0 +1,230 @@
+{
+  "node": {
+    "00c45a380446ad2705d33ab9b39d10d1366d5a3e86": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "components/Header.tsx"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "components/Header.tsx"
+    },
+    "7f4b0b943cece981531b1750c7560bf9a0518d4e2c": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createAccount",
+          "filename": "lib/actions/user.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "createAccount",
+      "filename": "lib/actions/user.actions.ts"
+    },
+    "7fa6a517834a1e2686b43681fadc59f78c2991c245": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getCurrentUser",
+          "filename": "lib/actions/user.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "getCurrentUser",
+      "filename": "lib/actions/user.actions.ts"
+    },
+    "7fb80cad32351122457ca3982eaa3a4592a449f494": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "verifySecret",
+          "filename": "lib/actions/user.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "verifySecret",
+      "filename": "lib/actions/user.actions.ts"
+    },
+    "7fd5d63d1197ff315d8c45e18eee4cec2433bedee5": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "signInUser",
+          "filename": "lib/actions/user.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "signInUser",
+      "filename": "lib/actions/user.actions.ts"
+    },
+    "7ff0ac3d6a0796b8f10af56b64c23b03a6b0816f7b": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "signOutUser",
+          "filename": "lib/actions/user.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      },
+      "exportedName": "signOutUser",
+      "filename": "lib/actions/user.actions.ts"
+    },
+    "7ffde687d2d7923d2da4dd8e0bcded8d8c021dfc16": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "sendEmailOTP",
+          "filename": "lib/actions/user.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "sendEmailOTP",
+      "filename": "lib/actions/user.actions.ts"
+    },
+    "7f3fd9b3b2ef81bbd8815641ffcab8e2a70ed740e3": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createAdminClient",
+          "filename": "lib/appwrite/index.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "createAdminClient",
+      "filename": "lib/appwrite/index.ts"
+    },
+    "7f5489fd21906d3a9aa0fb19d8aa298e5c8d980de5": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createSessionClient",
+          "filename": "lib/appwrite/index.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "createSessionClient",
+      "filename": "lib/appwrite/index.ts"
+    },
+    "7f66b48dfc3fdd15885448515dca109fdc49393385": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getFiles",
+          "filename": "lib/actions/file.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "getFiles",
+      "filename": "lib/actions/file.actions.ts"
+    },
+    "7fd22175f0b9aae213f9dc24e9d6bb0b7a96ac962a": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "uploadFile",
+          "filename": "lib/actions/file.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "uploadFile",
+      "filename": "lib/actions/file.actions.ts"
+    },
+    "007ee8b760b008548c71e4c46143b58d52e2eed232": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getTotalSpaceUsed",
+          "filename": "lib/actions/file.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "getTotalSpaceUsed",
+      "filename": "lib/actions/file.actions.ts"
+    },
+    "7f18ab67c9fab2100059d92ab80c81cf3ee2ca2b1c": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateFileUsers",
+          "filename": "lib/actions/file.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      },
+      "exportedName": "updateFileUsers",
+      "filename": "lib/actions/file.actions.ts"
+    },
+    "7f8cbabf899f6341f79279f8f8343c9f64ed85be16": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "renameFile",
+          "filename": "lib/actions/file.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      },
+      "exportedName": "renameFile",
+      "filename": "lib/actions/file.actions.ts"
+    },
+    "7fdea06f1126b3e5db4d610ffbc1044a7defc8f400": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteFile",
+          "filename": "lib/actions/file.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      },
+      "exportedName": "deleteFile",
+      "filename": "lib/actions/file.actions.ts"
+    }
+  },
+  "edge": {}
+}
