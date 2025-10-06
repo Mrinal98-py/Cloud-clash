@@ -135,21 +135,6 @@
       "exportedName": "createSessionClient",
       "filename": "lib/appwrite/index.ts"
     },
-    "7f66b48dfc3fdd15885448515dca109fdc49393385": {
-      "workers": {
-        "app/(root)/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false,
-          "exportedName": "getFiles",
-          "filename": "lib/actions/file.actions.ts"
-        }
-      },
-      "layer": {
-        "app/(root)/page": "rsc"
-      },
-      "exportedName": "getFiles",
-      "filename": "lib/actions/file.actions.ts"
-    },
     "7fd22175f0b9aae213f9dc24e9d6bb0b7a96ac962a": {
       "workers": {
         "app/(root)/page": {
@@ -163,6 +148,21 @@
         "app/(root)/page": "rsc"
       },
       "exportedName": "uploadFile",
+      "filename": "lib/actions/file.actions.ts"
+    },
+    "7f66b48dfc3fdd15885448515dca109fdc49393385": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Header.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/user.actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/appwrite/index.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/lib/actions/file.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getFiles",
+          "filename": "lib/actions/file.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      },
+      "exportedName": "getFiles",
       "filename": "lib/actions/file.actions.ts"
     },
     "007ee8b760b008548c71e4c46143b58d52e2eed232": {
